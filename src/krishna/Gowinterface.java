@@ -6,7 +6,7 @@ interface friends{
 public class Gowinterface implements friends{
 
 	public void eee1() {
-	System.out.println("fuck off gowtham");
+	System.out.println("  gowtham");
 
 	}
 	public static void main(String[] args) {
